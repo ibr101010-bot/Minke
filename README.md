@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="./resources/icons/icon.png" width="112" alt="Minke icon">
 </p>
 
